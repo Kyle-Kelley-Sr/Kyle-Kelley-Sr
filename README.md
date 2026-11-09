@@ -1,8 +1,8 @@
-### Kyle Kelley
+# Kyle Kelley
 
 E-commerce and operations at a race car chassis and parts manufacturer. I started in sales with no racing background, and over about two years my role grew to cover the online store, purchasing, production scheduling and costing systems. I build practical tools to fix the problems I find, using Python, JavaScript and AI.
 
-### Problems I've solved
+## Problems I've solved
 
 ### Weekly price and MAP audits took 10 hours
 Built a Python tool (Pandas, BeautifulSoup, Playwright) that checks competitor pricing and MAP compliance. The audit now takes about 15 minutes.
@@ -25,8 +25,8 @@ Launched a QR code system: technicians scan the bin, enter the quantity taken, a
 ### Manual order entry and catalog cleanup
 Connected the online store to QuickBooks so orders flow automatically. Cleaned up a catalog of about 4,000 SKUs (titles, metadata, part numbers, redirects).
 
-### Tools
+## Tools
 BigCommerce · QuickBooks Desktop/Enterprise · ShipperHQ · Python · JavaScript · Jotform · Power BI / Tableau · AI-assisted development
 
-### Contact
+## Contact
 [LinkedIn](https://www.linkedin.com/in/kyle-kelley-ai-scm)

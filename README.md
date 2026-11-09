@@ -16,6 +16,8 @@ Set up coupon rules so dealers can't stack the promo code on top of their dealer
 ### Customers didn't know when orders would arrive
 Wrote cart and checkout badges that show whether each item ships from our stock (with a live same-day shipping cutoff countdown), ships direct from the manufacturer, or is built to order.
 
+   [Code](https://github.com/Kyle-Kelley-Sr/bigcommerce-storefront-scripts) · [Live demo](https://kyle-kelley-sr.github.io/bigcommerce-storefront-scripts/)
+
 ### Shipping was undercharged on older products
 Audited the shipping rate setup and found retired box sizes still in use and about 1,200 products with no dimensions, the cause of dimensional-weight undercharges.
 
